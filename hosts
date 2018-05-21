@@ -161,9 +161,11 @@
 127.0.0.1 sO.2mdn.net
 127.0.0.1 static.2mdn.net
 
-#127.0.0.1 a1284.dscg.akamai.net
-#127.0.0.1 e11290.dspg.akamaiedge.net
-#127.0.0.1 e5486.g.akamaiedge.net
+127.0.0.1 a1284.dscg.akamai.net
+127.0.0.1 e11290.dspg.akamaiedge.net
+127.0.0.1 e7933.dscb.akamaiedge.net
+127.0.0.1 e8218.dscb1.akamaiedge.net
+127.0.0.1 e5486.g.akamaiedge.net
 127.0.0.1 aka-cdn-ns.adtech.de
 127.0.0.1 secure.flashtalking.com
 127.0.0.1 adnexus.net
@@ -241,3 +243,18 @@
 #127.0.0.1 lh5.googleusercontent.com
 #127.0.0.1 lh6.googleusercontent.com
 #127.0.0.1 lh7.googleusercontent.com
+
+#acrylic
+127.0.0.1 sls.update.microsoft.com
+127.0.0.1 win1710.ipv6.microsoft.com
+127.0.0.1 service.datamart.windows.com
+127.0.0.1 au.download.windowsupdate.com
+127.0.0.1 fe2.update.microsoft.com
+#127.0.0.1 
+#127.0.0.1 
+#127.0.0.1 
+#127.0.0.1 
+#127.0.0.1 
+#127.0.0.1 
+#127.0.0.1 
+#127.0.0.1 
