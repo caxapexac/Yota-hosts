@@ -28,8 +28,7 @@
 ::1 localhost
 
 # Microsoft
-127.0.0.1 *.microsoft.com
-127.0.0.1 www.microsoft.com
+#127.0.0.1 *.microsoft.com
 127.0.0.1 vortex.data.microsoft.com
 127.0.0.1 vortex-win.data.microsoft.com
 127.0.0.1 v10.vortex-win.data.microsoft.com
@@ -66,10 +65,6 @@
 127.0.0.1 statsfe2.ws.microsoft.com
 127.0.0.1 statsfe2.update.microsoft.com
 127.0.0.1 statsfe2.update.microsoft.com.akadns.net
-127.0.0.1 sls.update.microsoft.com
-127.0.0.1 sls.update.microsoft.com.akadns.net
-127.0.0.1 fe2.update.microsoft.com.akadns.net
-127.0.0.1 fe2.ws.microsoft.com
 127.0.0.1 wdcpalt.microsoft.akadns.net
 127.0.0.1 microsoft.com-c-2.edgekey.net.globalredir.akadns.net
 127.0.0.1 microsoft.com-c-2.edgekey.net
@@ -110,13 +105,20 @@
 #windows
 127.0.0.1 feedback.windows.com
 127.0.0.1 windowsupdate.com
+127.0.0.1 download.windowsupdate.com
 127.0.0.1 v4.download.windowsupdate.com
 127.0.0.1 au.v4.download.windowsupdate.com
+127.0.0.1 au.download.windowsupdate.com
 127.0.0.1 ctldl.windowsupdate.com
 127.0.0.1 activity.windows.com
 127.0.0.1 client.wns.windows.com
 127.0.0.1 HK2SCH130021344.wns.windows.com
 127.0.0.1 time.windows.com
+127.0.0.1 sls.update.microsoft.com
+127.0.0.1 sls.update.microsoft.com.akadns.net
+127.0.0.1 fe2.update.microsoft.com 
+127.0.0.1 fe2.update.microsoft.com.akadns.net
+127.0.0.1 fe2.ws.microsoft.com
 
 #msn
 127.0.0.1 *.rad.msn.com
@@ -212,20 +214,18 @@
 #127.0.0.1 137.116.81.24 # ?
 #127.0.0.1 204.79.197.200 # ?
 
-# shittochrome
+# shittochrome (works yet)
 #127.0.0.1 encrypted-tbn1.gstatic.com
 #127.0.0.1 encrypted-tbn2.gstatic.com
 #127.0.0.1 encrypted-tbn3.gstatic.com
 #127.0.0.1 encrypted-tbn4.gstatic.com
 #127.0.0.1 encrypted-tbn5.gstatic.com
-
 #127.0.0.1 www.google-analytics.com
 #127.0.0.1 r8---sn-n8v7znee.c.pack.google.com
 #127.0.0.1 www.googleapis.com
 #127.0.0.1 cache.pack.google.com
 #127.0.0.1 tools.google.com
 #127.0.0.1 clients2.googleusercontent.com
-
 #127.0.0.1 clients.google.com
 #127.0.0.1 clients1.google.com
 #127.0.0.1 clients2.google.com
@@ -245,16 +245,12 @@
 #127.0.0.1 lh7.googleusercontent.com
 
 #acrylic
-127.0.0.1 sls.update.microsoft.com
 127.0.0.1 win1710.ipv6.microsoft.com
 127.0.0.1 service.datamart.windows.com
-127.0.0.1 au.download.windowsupdate.com
-127.0.0.1 fe2.update.microsoft.com
-127.0.0.1 download.windowsupdate.com
-127.0.0.1 windowsupdate.com # FUCK YOU SHUT UP PLEASE
-#127.0.0.1 
-#127.0.0.1 
-#127.0.0.1 
-#127.0.0.1 
+127.0.0.1 continuum.dds.microsoft.com
+127.0.0.1 settings-win-ppe.data.microsoft.com
+127.0.0.1 register.cdpcs.microsoft.com
+127.0.0.1 arc.msn.com.nsatc.net
+#127.0.0.1 *.windowsupdate.com # FUCK YOU SHUT UP PLEASE
 #127.0.0.1 
 #127.0.0.1 
